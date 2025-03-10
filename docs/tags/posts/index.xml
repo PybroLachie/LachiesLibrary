@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Posts - Tag - My New Hugo Site</title>
+        <link>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</link>
+        <description>Posts - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>A test with a 1 word image name</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/a-test-with-a-1-word-image-name/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/a-test-with-a-1-word-image-name/</guid>
+    <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
+<p>!</p>]]></description>
+</item>
+<item>
+    <title>Another test another image</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-another-image/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-another-image/</guid>
+    <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
+<p>!</p>]]></description>
+</item>
+<item>
+    <title>A third post</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/third-post/</link>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/third-post/</guid>
+    <description><![CDATA[<p>I am still having a few issues, however major headway has been made, I have managed to get the Hugo site readable on GitHub pages with the correct theme formatting, it would appear that images are still struggling though, I will add an image below this to use in my further testing:</p>
+<p>!</p>
+<p>neat concept are aye</p>]]></description>
+</item>
+</channel>
+</rss>

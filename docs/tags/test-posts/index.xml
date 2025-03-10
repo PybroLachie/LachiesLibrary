@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Test Posts - Tag - My New Hugo Site</title>
+        <link>https://pybrolachie.github.io/LachiesLibrary/tags/test-posts/</link>
+        <description>Test Posts - Tag - My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/test-posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Another test one</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-one/</link>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-one/</guid>
+    <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
+<p>!</p>]]></description>
+</item>
+<item>
+    <title>My First Post</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</guid>
+    <description><![CDATA[<p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
+</item>
+</channel>
+</rss>
