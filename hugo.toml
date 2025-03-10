@@ -107,3 +107,14 @@ languageName = "English"
     [params.header.title]
       # title name
       name = "Lachie's Library"
+
+
+
+  [params.footer]
+    enable = false
+
+
+
+
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "pybrolachie.github.io/LachiesLibrary/"
