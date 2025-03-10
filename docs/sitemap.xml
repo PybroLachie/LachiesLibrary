@@ -2,9 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://pybrolachie.github.io/LachiesLibrary/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://pybrolachie.github.io/LachiesLibrary/posts/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://pybrolachie.github.io/LachiesLibrary/tags/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://pybrolachie.github.io/LachiesLibrary/tags/test-posts/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://pybrolachie.github.io/LachiesLibrary/tags/test/</loc><lastmod>2025-03-09T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://pybrolachie.github.io/LachiesLibrary/categories/</loc></url></urlset>

@@ -1,54 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Posts - Tag - My New Hugo Site</title>
+        <title>Posts - Tag - Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</link>
-        <description>Posts - Tag - My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>A test with a 1 word image name</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/a-test-with-a-1-word-image-name/</link>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/a-test-with-a-1-word-image-name/</guid>
-    <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
-<p></p>]]></description>
-</item>
-<item>
-    <title>Another test another image</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-another-image/</link>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-another-image/</guid>
-    <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
-<p></p>]]></description>
-</item>
-<item>
-    <title>THIS IS WHAT WORKS</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/this-is-what-works/</link>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/this-is-what-works/</guid>
-    <description><![CDATA[<p>I finally figured it out, github pages need the repo name in:</p>
-<p></p>]]></description>
-</item>
-<item>
-    <title>To test my powershell script</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/to-test-my-mega-script/</link>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/to-test-my-mega-script/</guid>
-    <description><![CDATA[<p>I finally got the process working for individually executing commands, this post with an image attached is to test if my script with all the actions together is working</p>
-<p>check out this image:</p>
-<p></p>]]></description>
-</item>
-<item>
-    <title>A third post</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/third-post/</link>
+        <description>Posts - Tag - Lachies Library</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
     <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/third-post/</guid>
-    <description><![CDATA[<p>I am still having a few issues, however major headway has been made, I have managed to get the Hugo site readable on GitHub pages with the correct theme formatting, it would appear that images are still struggling though, I will add an image below this to use in my further testing:</p>
-<p></p>
-<p>neat concept are aye</p>]]></description>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</guid>
+    <description><![CDATA[<p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
 </item>
 </channel>
 </rss>

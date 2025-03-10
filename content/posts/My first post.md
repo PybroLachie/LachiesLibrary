@@ -3,7 +3,10 @@ title: My First Post
 date: 2025-03-09
 draft: false
 tags:
-  - Test posts
+  - Test
+  - posts
+author: Lachie
+description: my first ever blog post, with my initial thoughts near the start of the project, and my final thoughts after I finally got it working.
 ---
 
 

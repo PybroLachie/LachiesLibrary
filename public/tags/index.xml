@@ -1,14 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - My New Hugo Site</title>
+        <title>Tags - Tag - Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/tags/</link>
-        <description>Tags - Tag - My New Hugo Site</description>
+        <description>Tags - Tag - Lachies Library</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Test Posts</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/tags/test-posts/</link>
+    <title>Posts</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</link>
     <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
     <author>xxxx</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/tags/test-posts/</guid>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Test</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/tags/test/</link>
+    <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/tags/test/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
