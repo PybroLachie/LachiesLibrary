@@ -3,13 +3,14 @@
         <title>All Posts - Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/posts/</link>
         <description>All Posts | Lachies Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/" rel="self" type="application/rss+xml" /><item>
     <title>My First Post</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
-    <pubDate>Sun, 09 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
     <author>Lachie</author>
     <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</guid>
-    <description><![CDATA[<p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
+    <description><![CDATA[<h1 id="what-i-wrote-before-i-got-it-working">What I wrote before I got it working:</h1>
+<p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
 </item>
 </channel>
 </rss>

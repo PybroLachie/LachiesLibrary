@@ -97,23 +97,6 @@ languageName = "English"
     noClasses = false
     
 
-  # Header config
-  [params.header]
-    # desktop header mode ["fixed", "normal", "auto"]
-    desktopMode = "fixed"
-    # mobile header mode ["fixed", "normal", "auto"]
-    mobileMode = "auto"
-    # LoveIt NEW | 0.2.0 Header title config
-    [params.header.title]
-      # title name
-      name = "Lachie's Personal Blog"
-      # you can add extra information before the name (HTML format is supported), such as icons
-      pre = ""
-      # you can add extra information after the name (HTML format is supported), such as icons
-      post = ""
-      # LoveIt NEW | 0.2.5 whether to use typeit animation for title name
-      typeit = True
-
 
   [params.footer]
     enable = false
