@@ -10,7 +10,7 @@
     <author>xxxx</author>
     <guid>https://pybrolachie.github.io/LachiesLibrary/posts/a-test-with-a-1-word-image-name/</guid>
     <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
-<p></p>]]></description>
+<p>!</p>]]></description>
 </item>
 <item>
     <title>Another test another image</title>
@@ -19,6 +19,15 @@
     <author>xxxx</author>
     <guid>https://pybrolachie.github.io/LachiesLibrary/posts/another-test-another-image/</guid>
     <description><![CDATA[<p>it would be good to see if it can filter my notes by order</p>
+<p>!</p>]]></description>
+</item>
+<item>
+    <title>THIS IS WHAT WORKS</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/this-is-what-works/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/this-is-what-works/</guid>
+    <description><![CDATA[<p>I finally figured it out, github pages need the repo name in:</p>
 <p>!</p>]]></description>
 </item>
 <item>
