@@ -9,5 +9,5 @@ tags:
 
 I finally figured it out, github pages need the repo name in:
 
-!![Image Description](/LachiesLibrary/images/THISISWHATWORKS.png)
+![Image Description](/LachiesLibrary/images/THISISWHATWORKS.png)
 

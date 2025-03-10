@@ -11,7 +11,7 @@ This is my second attempt at following the network chuck video on creating a blo
 
 here is my favourite meme:
 
-!![Image Description](/LachiesLibrary/images/My%20first%20post-20250309170449239.png)
+![Image Description](/LachiesLibrary/images/My%20first%20post-20250309170449239.png)
 
 # Also here is some text that should be like kinda big lol
 hope this works.
