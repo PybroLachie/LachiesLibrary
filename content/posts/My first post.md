@@ -6,7 +6,6 @@ tags:
   - Test
   - posts
 author: Lachie
-description: my first ever blog post, with my initial thoughts near the start of the project, and my final thoughts after I finally got it working.
 ---
 # What I wrote before I got it working:
 
