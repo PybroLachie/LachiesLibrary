@@ -6,6 +6,16 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://pybrolachie.github.io/LachiesLibrary/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Making paper minis</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/</link>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/</guid>
+    <description><![CDATA[<p></p>
+<h2 id="back-story">Back Story</h2>
+<p>I’ve been playing TTRPGs (specifically D&amp;D 5e) for quite a while now, both as a player and as a DM, and combat naturally is a large part of those games, up until recently all combat I have ever played has been “theatre of the mind” and while there is nothing wrong with that (in fact in certain cases it is likely superior) I had always wanted to do tactical combat on a battle map, however as I spent many of my early D&amp;D playing years as a teenager with no disposable income – the cost for minis and maps was just too much to justify when I would often only play a few sessions a year. What is to follow is the journey of learning to make cheap paper minis (about $0.12 AUD per mini), some workflows and materials I have tried and would recommend, and some places to find resources, all things I wish I had known about back then.</p>]]></description>
+</item>
+<item>
     <title>My First Post</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
     <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
@@ -13,6 +23,14 @@
     <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</guid>
     <description><![CDATA[<h1 id="what-i-wrote-before-i-got-it-working">What I wrote before I got it working:</h1>
 <p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
+</item>
+<item>
+    <title></title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/untitled/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/untitled/</guid>
+    <description><![CDATA[]]></description>
 </item>
 </channel>
 </rss>
