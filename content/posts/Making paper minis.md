@@ -36,7 +36,7 @@ With the background isolated, it became a simple matter of using photoshop to ge
 
 ## The Dry Erase Minis
 
-This is an idea I was very proud of, I took some generic character art and isolated it's silhouete making it white, I then gave it the same ready to print treatment that I have all the minis before this, however before folding them I covered them in some clear adhesive laminate [6], this left me with a handful of minis that the DM can use dry erase markers to quickly label on the fly for unexpected encounters.
+This is an idea I was very proud of, I took some generic character art and isolated it's silhouete making it white, I then gave it the same ready to print treatment that I gave all the minis before this, however before folding them I covered them in some clear adhesive laminate [6], this left me with a handful of minis that the DM can use dry erase markers to quickly label on the fly for unexpected encounters.
 
 ![Image Description](/LachiesLibrary/images/Making%20paper%20minis-20250311143735242.png)
 
