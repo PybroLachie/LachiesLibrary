@@ -82,6 +82,22 @@ languageName = "English"
 
     title = ""
 
+      [[menu.main]]
+
+    weight = 4
+
+    identifier = "MyArt"
+
+    pre = ""
+
+    post = ""
+
+    name = "My Art"
+
+    url = "https://lachiesteere.art/"
+
+    title = ""
+
 
 
 # Markup related configuration in Hugo
