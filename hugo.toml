@@ -42,7 +42,7 @@ languageName = "English"
 
     post = ""
 
-    name = "Posts"
+    name = "Blog In Order"
 
     url = "/posts/"
 
@@ -60,7 +60,7 @@ languageName = "English"
 
     post = ""
 
-    name = "Tags"
+    name = "Blog By Tag"
 
     url = "/tags/"
 
@@ -70,31 +70,31 @@ languageName = "English"
 
     weight = 3
 
-    identifier = "categories"
-
-    pre = ""
-
-    post = ""
-
-    name = "Categories"
-
-    url = "/categories/"
-
-    title = ""
-
-      [[menu.main]]
-
-    weight = 4
-
     identifier = "MyArt"
 
     pre = ""
 
     post = ""
 
-    name = "My Art"
+    name = "Check Out My Art"
 
     url = "https://lachiesteere.art/"
+
+    title = ""
+
+  [[menu.main]]
+
+    weight = 4
+
+    identifier = "Social-BlueSky"
+
+    pre = ""
+
+    post = ""
+
+    name = "Follow Me On Bluesky"
+
+    url = "https://bsky.app/profile/pybrolachie.bsky.social"
 
     title = ""
 
