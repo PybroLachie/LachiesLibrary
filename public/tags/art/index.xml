@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Art - Tag - Lachies Library</title>
+        <link>https://pybrolachie.github.io/LachiesLibrary/tags/art/</link>
+        <description>Art - Tag - Lachies Library</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/art/" rel="self" type="application/rss+xml" /><item>
+    <title>My home PC setup</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</link>
+    <pubDate>Tue, 18 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</guid>
+    <description><![CDATA[<h1 id="intro-and-disclaimer">Intro and disclaimer</h1>
+<p>Disclaimer: This is my personal setup for game development and 3D art, I obtained parts of it over a long period of time including before attending college, during my studies, and after I started working professionally. I point this out as it is important to me that anyone reading this who is interested in getting into game dev understands that they <strong>Do not</strong> need to obtain this kind of equipment to get started, I started 3D modelling on an <a href="https://browser.geekbench.com/v4/cpu/compare/179172?baseline=179172" target="_blank" rel="noopener noreffer ">old Toshiba laptop</a> with no graphics card and 4gb of DDR3 RAM, and later built a simple PC with an <a href="https://pcpartpicker.com/product/QbGj4D/intel-core-i5-7500-34ghz-quad-core-processor-bx80677i57500" target="_blank" rel="noopener noreffer ">i5-7500</a> processor and a <a href="https://www.mwave.com.au/archive/asus-geforce-gtx-1050-phoenix-2gb-video-card-ac08304" target="_blank" rel="noopener noreffer ">GTX 1050</a> graphics card which actually did quite well for a long time, so please do not let a lack of equipment prevent you from getting started.</p>]]></description>
+</item>
+</channel>
+</rss>
