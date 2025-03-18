@@ -6,6 +6,10 @@ tags:
   - Test
 author: Lachie
 ---
+here is some text with a link to an external website
+
+[here is some text with a link to an external site](https://lachiesteere.art/)
+
 this note is not a real post, rather it is a test for some of the different formatting options I have here inside of obsidian, so that I can see what makes it over to html.
 
 **Bold text**

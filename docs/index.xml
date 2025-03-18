@@ -3,7 +3,7 @@
         <title>Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 12 Mar 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://pybrolachie.github.io/LachiesLibrary/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Pizza Dough Recipie</title>
@@ -92,18 +92,11 @@
     <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
     <author>Lachie</author>
     <guid>https://pybrolachie.github.io/LachiesLibrary/posts/formatting-test/</guid>
-    <description><![CDATA[<p>this note is not a real post, rather it is a test for some of the different formatting options I have here inside of obsidian, so that I can see what makes it over to html.</p>
+    <description><![CDATA[<p>here is some text with a link to an external website</p>
+<p><a href="https://lachiesteere.art/" target="_blank" rel="noopener noreffer ">here is some text with a link to an external site</a></p>
+<p>this note is not a real post, rather it is a test for some of the different formatting options I have here inside of obsidian, so that I can see what makes it over to html.</p>
 <p><strong>Bold text</strong></p>
-<p><!-- raw HTML omitted -->Underlined Text<!-- raw HTML omitted --></p>
-<p><em>Italic text</em></p>
-<p><del>Strikethrough text</del></p>
-<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
-    <div class="code-header language-">
-        <span class="code-title"><i class="arrow fas fa-chevron-right fa-fw" aria-hidden="true"></i></span>
-        <span class="ellipses"><i class="fas fa-ellipsis-h fa-fw" aria-hidden="true"></i></span>
-        <span class="copy" title="Copy to clipboard"><i class="far fa-copy fa-fw" aria-hidden="true"></i></span>
-    </div><pre tabindex="0"><code>Code block</code></pre></div>
-<p><!-- raw HTML omitted -->highlighted text<!-- raw HTML omitted --></p>]]></description>
+<p><!-- raw HTML omitted -->Underlined Text<!-- raw HTML omitted --></p>]]></description>
 </item>
 <item>
     <title>Making paper minis</title>
