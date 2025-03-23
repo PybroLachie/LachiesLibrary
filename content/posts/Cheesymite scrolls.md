@@ -4,7 +4,7 @@ date: 2025-03-23
 draft: false
 tags:
   - Cooking
-  - Recipies
+  - Recipes
 author: Lachie
 ---
 ### Info:
