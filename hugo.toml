@@ -98,6 +98,27 @@ languageName = "English"
 
     title = ""
 
+  [[menu.main]]
+
+    weight = 5
+
+    identifier = "Posts"
+
+    # you can add extra information before the name (HTML format is supported), such as icons
+
+    pre = ""
+
+    # you can add extra information after the name (HTML format is supported), such as icons
+
+    post = ""
+
+    name = "Blog In Order"
+
+    url = "/TestSubtree/"
+
+    # title will be shown when you hover on this menu link
+
+    title = ""
 
 
 # Markup related configuration in Hugo
