@@ -3,7 +3,67 @@
         <title>All Posts - Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/posts/</link>
         <description>All Posts | Lachies Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 18 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 23 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Cheesymite Scrolls Recipe</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/cheesymite-scrolls/</link>
+    <pubDate>Sun, 23 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/cheesymite-scrolls/</guid>
+    <description><![CDATA[<h3 id="info">Info:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: right"></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: right">Yield:</td>
+          <td>48 Scrolls</td>
+      </tr>
+      <tr>
+          <td style="text-align: right">Prep time</td>
+          <td>20 minutes</td>
+      </tr>
+      <tr>
+          <td style="text-align: right">Cook time (pressing dough and cooking)</td>
+          <td>20-25 minutes</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="equipment-required">Equipment Required:</h3>
+<ul>
+<li>Oven</li>
+<li>several chopping boards / large plates</li>
+</ul>
+<h3 id="ingredients">Ingredients:</h3>
+<ul>
+<li>6 sheets of puff pastry</li>
+<li>600g grated tasty cheese</li>
+<li>half a jar of vegemite</li>
+<li>2 egg yolks</li>
+</ul>
+<h3 id="method">Method</h3>
+<ol>
+<li>preheat oven to 240 degrees Celsius</li>
+<li>take pastry out of the freezer about 5 minutes before use to allow the sheets to thaw a little.</li>
+<li>lay the sheets out across cutting boards / plates.
+<ol>
+<li>if the sheets are still frozen together, use the edge of a sharp knife to leverage them apart.</li>
+</ol>
+</li>
+<li>coat each sheet in a thin layer of vegemite, remember that each scroll will end up with several layers of this coating, so don&rsquo;t put it on too strong.</li>
+<li>sprinkle cheese over each covered sheet of pastry.</li>
+<li>roll into logs, using the egg yolk to seal them together.</li>
+<li>cover each log in the remaining egg yolk</li>
+<li>cut each log into 8 slices.</li>
+<li>place slices on their side on a baking tray/s</li>
+<li>bake for 20-25 minutes or until golden brown</li>
+<li>Allow to rest and firm up outside of the oven for about 5 minutes before transferring to plates for serving</li>
+</ol>]]></description>
+</item>
+<item>
     <title>My home PC setup</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</link>
     <pubDate>Tue, 18 Mar 2025 00:00:00 &#43;0000</pubDate>
