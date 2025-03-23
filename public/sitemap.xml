@@ -2,6 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://pybrolachie.github.io/LachiesLibrary/categories/</loc></url><url>
             <loc>https://pybrolachie.github.io/LachiesLibrary/</loc></url><url>
+            <loc>https://pybrolachie.github.io/LachiesLibrary/categories/</loc></url><url>
             <loc>https://pybrolachie.github.io/LachiesLibrary/tags/</loc></url></urlset>

@@ -1,4 +1,1 @@
----
-title: Just a regular page
----
-This should replace the main page - I have no idea if it will, but it should
+This should replace the main page - I have no idea if it will, but it should, here ill add some more text now that I have it inside obsidian
