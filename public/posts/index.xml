@@ -3,7 +3,7 @@
         <title>All Posts - Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/posts/</link>
         <description>All Posts | Lachies Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 23 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Cheesymite Scrolls Recipe</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/cheesymite-scrolls/</link>
     <pubDate>Sun, 23 Mar 2025 00:00:00 &#43;0000</pubDate>
@@ -174,6 +174,15 @@
     <description><![CDATA[<p></p>
 <h2 id="back-story">Back Story</h2>
 <p>I’ve been playing TTRPGs (specifically D&amp;D 5e) for quite a while now, both as a player and as a DM, and combat naturally is a large part of those games, up until recently all combat I have ever played has been “theatre of the mind” and while there is nothing wrong with that (in fact in certain cases it is likely superior) I had always wanted to do tactical combat on a battle map, however as I spent many of my early D&amp;D playing years as a teenager with no disposable income – the cost for minis and maps was just too much to justify when I would often only play a few sessions a year. What is to follow is the journey of learning to make cheap paper minis (about $0.12 AUD per mini), some workflows and materials I have tried and would recommend, and some places to find resources, all things I wish I had known about back then.</p>]]></description>
+</item>
+<item>
+    <title>test post to push changes to other menus</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/test/</link>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/test/</guid>
+    <description><![CDATA[<p>just a test</p>
+<p>add some more and see</p>]]></description>
 </item>
 <item>
     <title>My First Post</title>

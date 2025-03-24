@@ -4,6 +4,8 @@ robocopy F:\Dropbox\02_Personal\Notes\ObsidianVaults\LachiesMasterVault\LachiesL
 
 robocopy F:\Dropbox\02_Personal\Notes\ObsidianVaults\LachiesMasterVault\LachiesLibrary\01_Posts C:\Users\lachl\Documents\GitHub\LachiesLibrary\content\posts /mir
 
+cd C:\Users\lachl\Documents\GitHub\LachiesLibrary
+
 python3 images-Icepick.py
 
 hugo.exe

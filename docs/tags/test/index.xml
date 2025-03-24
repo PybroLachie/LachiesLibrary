@@ -16,6 +16,15 @@
 <p><!-- raw HTML omitted -->Underlined Text<!-- raw HTML omitted --></p>]]></description>
 </item>
 <item>
+    <title>test post to push changes to other menus</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/test/</link>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/test/</guid>
+    <description><![CDATA[<p>just a test</p>
+<p>add some more and see</p>]]></description>
+</item>
+<item>
     <title>My First Post</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
     <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
