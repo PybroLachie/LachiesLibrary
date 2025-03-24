@@ -32,6 +32,28 @@ languageName = "English"
 
     weight = 2
 
+    identifier = "Home"
+
+    # you can add extra information before the name (HTML format is supported), such as icons
+
+    pre = ""
+
+    # you can add extra information after the name (HTML format is supported), such as icons
+
+    post = ""
+
+    name = "Home"
+
+    url = "https://pybrolachie.github.io/LachiesLibrary/"
+
+    # title will be shown when you hover on this menu link
+
+    title = ""
+
+  [[menu.main]]
+
+    weight = 3
+
     identifier = "Posts"
 
     # you can add extra information before the name (HTML format is supported), such as icons
@@ -52,7 +74,7 @@ languageName = "English"
 
   [[menu.main]]
 
-    weight = 3
+    weight = 4
 
     identifier = "MyArt"
 
@@ -68,7 +90,7 @@ languageName = "English"
 
   [[menu.main]]
 
-    weight = 4
+    weight = 5
 
     identifier = "Social-BlueSky"
 
