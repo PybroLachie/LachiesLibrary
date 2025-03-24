@@ -30,7 +30,7 @@ languageName = "English"
 
   [[menu.main]]
 
-    weight = 1
+    weight = 2
 
     identifier = "Posts"
 
@@ -42,27 +42,11 @@ languageName = "English"
 
     post = ""
 
-    name = "Blog In Order"
+    name = "Blog"
 
     url = "/posts/"
 
     # title will be shown when you hover on this menu link
-
-    title = ""
-
-  [[menu.main]]
-
-    weight = 2
-
-    identifier = "tags"
-
-    pre = ""
-
-    post = ""
-
-    name = "Blog By Tag"
-
-    url = "/tags/"
 
     title = ""
 
@@ -98,27 +82,7 @@ languageName = "English"
 
     title = ""
 
-  [[menu.main]]
 
-    weight = 5
-
-    identifier = "Posts"
-
-    # you can add extra information before the name (HTML format is supported), such as icons
-
-    pre = ""
-
-    # you can add extra information after the name (HTML format is supported), such as icons
-
-    post = ""
-
-    name = "Blog In Order"
-
-    url = "/TestSubtree/"
-
-    # title will be shown when you hover on this menu link
-
-    title = ""
 
 
 # Markup related configuration in Hugo
