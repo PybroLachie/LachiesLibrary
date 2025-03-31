@@ -3,9 +3,25 @@
         <title>Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 30 Mar 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://pybrolachie.github.io/LachiesLibrary/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>A custom site test</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/a-custom-site-test/</link>
+    <pubDate>Sun, 30 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/a-custom-site-test/</guid>
+    <description><![CDATA[<p>give this one a red hot go</p>]]></description>
+</item>
+<item>
+    <title>Post Title</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/another-test/</link>
+    <pubDate>Tue, 25 Mar 2025 00:00:00 &#43;0000</pubDate>
+    <author>Lachie</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/another-test/</guid>
+    <description><![CDATA[<p>will this one convert to html?</p>]]></description>
+</item>
+<item>
     <title>Cheesymite Scrolls Recipe</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/cheesymite-scrolls/</link>
     <pubDate>Sun, 23 Mar 2025 00:00:00 &#43;0000</pubDate>
