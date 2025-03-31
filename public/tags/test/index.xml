@@ -3,36 +3,7 @@
         <title>Test - Tag - Lachies Library</title>
         <link>https://pybrolachie.github.io/LachiesLibrary/tags/test/</link>
         <description>Test - Tag - Lachies Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/test/" rel="self" type="application/rss+xml" /><item>
-    <title>Post Title</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/another-test/</link>
-    <pubDate>Tue, 25 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>Lachie</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/another-test/</guid>
-    <description><![CDATA[<p>will this one convert to html?</p>]]></description>
-</item>
-<item>
-    <title>Formatting test</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/formatting-test/</link>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>Lachie</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/formatting-test/</guid>
-    <description><![CDATA[<p>here is some text with a link to an external website</p>
-<p><a href="https://lachiesteere.art/" target="_blank" rel="noopener noreffer ">here is some text with a link to an external site</a></p>
-<p>this note is not a real post, rather it is a test for some of the different formatting options I have here inside of obsidian, so that I can see what makes it over to html.</p>
-<p><strong>Bold text</strong></p>
-<p><!-- raw HTML omitted -->Underlined Text<!-- raw HTML omitted --></p>]]></description>
-</item>
-<item>
-    <title>test post to push changes to other menus</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/test/</link>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>Lachie</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/test/</guid>
-    <description><![CDATA[<p>just a test</p>
-<p>add some more and see</p>]]></description>
-</item>
-<item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/test/" rel="self" type="application/rss+xml" /><item>
     <title>My First Post</title>
     <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
     <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>

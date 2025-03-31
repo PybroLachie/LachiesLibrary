@@ -1,4 +1,5 @@
- Housekeeping
+
+## Housekeeping
 
 This is my personal website, If you came here looking for my professional portfolio, that can be found [here](https://lachiesteere.art/).
 # Welcome to Lachie's Library!
@@ -18,5 +19,3 @@ The tools and systems I learnt changed everything for me, making me feel free to
 Today I have a decently sized (and growing) collection of notes on all sorts of topics that I have developed interests in over time, and on occasion I find myself with some notes I would like to put out into the world, either because I have been specifically asked to like in the case of some recipes, or because I have spent some time creating some resources and documenting some workflows for hobbies that I know will likely benefit someone looking for them, such as my post on [creating cheap miniatures for D&D](https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/). and that is why in the year 2025, I created my own website. 
 
 You can see a list of my current blog posts [Here](https://pybrolachie.github.io/LachiesLibrary/posts/)
-
-adding some text at the end as a test
