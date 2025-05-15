@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>SubstanceDesigner - Tag - Lachies Library</title>
+        <link>https://pybrolachie.github.io/LachiesLibrary/tags/substancedesigner/</link>
+        <description>SubstanceDesigner - Tag - Lachies Library</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/substancedesigner/" rel="self" type="application/rss+xml" /><item>
+    <title>Will gifs and stuff work in here?</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/flood-fill---collection-1/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/flood-fill---collection-1/</guid>
+    <description><![CDATA[<h2 id="flood-fill">Flood Fill</h2>
+<p>flood fill takes a texture input and treats every separated white section as an &ldquo;island&rdquo;, flood fill creates a series of random data for each of these islands in each of its RGBA channels.</p>
+<p>Example:
+
+Flood fill individual channels:
+![[FloodFillChannels-NoSide.gif]]
+This data can be used as masks for various blending modes, it can also be used as input for the following series of specialized flood fill nodes as detailed below</p>]]></description>
+</item>
+</channel>
+</rss>

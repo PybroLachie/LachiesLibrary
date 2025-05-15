@@ -174,5 +174,19 @@
     <description><![CDATA[<h1 id="what-i-wrote-before-i-got-it-working">What I wrote before I got it working:</h1>
 <p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
 </item>
+<item>
+    <title>Will gifs and stuff work in here?</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/posts/flood-fill---collection-1/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/flood-fill---collection-1/</guid>
+    <description><![CDATA[<h2 id="flood-fill">Flood Fill</h2>
+<p>flood fill takes a texture input and treats every separated white section as an &ldquo;island&rdquo;, flood fill creates a series of random data for each of these islands in each of its RGBA channels.</p>
+<p>Example:
+
+Flood fill individual channels:
+![[FloodFillChannels-NoSide.gif]]
+This data can be used as masks for various blending modes, it can also be used as input for the following series of specialized flood fill nodes as detailed below</p>]]></description>
+</item>
 </channel>
 </rss>
