@@ -1,17 +1,36 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>DnD - Tag - Lachies Library</title>
-        <link>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</link>
-        <description>DnD - Tag - Lachies Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/dnd/" rel="self" type="application/rss+xml" /><item>
-    <title>Making paper minis</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/</link>
-    <pubDate>Tue, 11 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>Lachie</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/</guid>
-    <description><![CDATA[<p></p>
-<h2 id="back-story">Back Story</h2>
-<p>I’ve been playing TTRPGs (specifically D&amp;D 5e) for quite a while now, both as a player and as a DM, and combat naturally is a large part of those games, up until recently all combat I have ever played has been “theatre of the mind” and while there is nothing wrong with that (in fact in certain cases it is likely superior) I had always wanted to do tactical combat on a battle map, however as I spent many of my early D&amp;D playing years as a teenager with no disposable income – the cost for minis and maps was just too much to justify when I would often only play a few sessions a year. What is to follow is the journey of learning to make cheap paper minis (about $0.12 AUD per mini), some workflows and materials I have tried and would recommend, and some places to find resources, all things I wish I had known about back then.</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DnD on Lachies Library</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</link>
+    <description>Recent content in DnD on Lachies Library</description>
+    <image>
+      <title>Lachies Library</title>
+      <url>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/dnd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My D&amp;D House Rules</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-dd-house-rules/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-dd-house-rules/</guid>
+      <description>&lt;p&gt;These are the house rules I use when I run D&amp;amp;D, intended for use with D&amp;amp;D 5e (2014)&lt;/p&gt;
+&lt;h3 id=&#34;critical-hit-and-failure&#34;&gt;Critical hit and failure&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;In Combat:&lt;!-- raw HTML omitted --&gt;
+Rolling a natural 20 will automatically hit whatever you were attacking, you double the amount of dice you would normally roll for damage (for example, if attacking with a dagger which does 1d4+2 damage normally, a natural 20 will do 2d4 + 2 damage)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Making paper minis</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/making-paper-minis/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://pybrolachie.github.io/LachiesLibrary/images/Making%20paper%20minis-20250311113433180.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;back-story&#34;&gt;Back Story&lt;/h2&gt;
+&lt;p&gt;I’ve been playing TTRPGs (specifically D&amp;amp;D 5e) for quite a while now, both as a player and as a DM, and combat naturally is a large part of those games, up until recently all combat I have ever played has been “theatre of the mind” and while there is nothing wrong with that (in fact in certain cases it is likely superior) I had always wanted to do tactical combat on a battle map, however as I spent many of my early D&amp;amp;D playing years as a teenager with no disposable income – the cost for minis and maps was just too much to justify when I would often only play a few sessions a year. What is to follow is the journey of learning to make cheap paper minis (about $0.12 AUD per mini), some workflows and materials I have tried and would recommend, and some places to find resources, all things I wish I had known about back then.&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>

@@ -1,16 +1,25 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Posts - Tag - Lachies Library</title>
-        <link>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</link>
-        <description>Posts - Tag - Lachies Library</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>My First Post</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
-    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate>
-    <author>Lachie</author>
-    <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</guid>
-    <description><![CDATA[<h1 id="what-i-wrote-before-i-got-it-working">What I wrote before I got it working:</h1>
-<p>This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.</p>]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Lachies Library</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</link>
+    <description>Recent content in Posts on Lachies Library</description>
+    <image>
+      <title>Lachies Library</title>
+      <url>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;what-i-wrote-before-i-got-it-working&#34;&gt;What I wrote before I got it working:&lt;/h1&gt;
+&lt;p&gt;This is my second attempt at following the network chuck video on creating a blog using obsidian, I will this time be doing more of a hybrid between what he has created, and what I want, using bits and bobs I fill out along the way. I am writing this in obsidian before I attempt to push it over to hugo and then to github sites, we shall see how it goes.&lt;/p&gt;</description>
+    </item>
+  </channel>
 </rss>
