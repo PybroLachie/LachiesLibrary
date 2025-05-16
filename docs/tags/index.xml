@@ -14,13 +14,6 @@
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Craft</title>
-      <link>https://pybrolachie.github.io/LachiesLibrary/tags/craft/</link>
-      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/craft/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>DnD</title>
       <link>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
@@ -53,6 +46,13 @@
       <link>https://pybrolachie.github.io/LachiesLibrary/tags/tech/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://pybrolachie.github.io/LachiesLibrary/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Craft</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/craft/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/craft/</guid>
       <description></description>
     </item>
     <item>
