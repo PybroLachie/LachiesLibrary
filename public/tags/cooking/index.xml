@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cooking on Lachies Library</title>
-    <link>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</link>
+    <link>http://localhost:1313/LachiesLibrary/tags/cooking/</link>
     <description>Recent content in Cooking on Lachies Library</description>
     <image>
       <title>Lachies Library</title>
-      <url>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LachiesLibrary/tags/cooking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheesymite Scrolls Recipe</title>
-      <link>https://pybrolachie.github.io/LachiesLibrary/posts/cheesymite-scrolls/</link>
+      <link>http://localhost:1313/LachiesLibrary/posts/cheesymite-scrolls/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/cheesymite-scrolls/</guid>
+      <guid>http://localhost:1313/LachiesLibrary/posts/cheesymite-scrolls/</guid>
       <description>&lt;h3 id=&#34;info&#34;&gt;Info:&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -74,9 +74,9 @@
     </item>
     <item>
       <title>Pizza Dough Recipie</title>
-      <link>https://pybrolachie.github.io/LachiesLibrary/posts/pizza-dough-recipie/</link>
+      <link>http://localhost:1313/LachiesLibrary/posts/pizza-dough-recipie/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/pizza-dough-recipie/</guid>
+      <guid>http://localhost:1313/LachiesLibrary/posts/pizza-dough-recipie/</guid>
       <description>&lt;h3 id=&#34;info&#34;&gt;Info:&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
