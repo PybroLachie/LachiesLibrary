@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Lachies Library</title>
-    <link>http://localhost:1313/LachiesLibrary/tags/</link>
+    <link>https://pybrolachie.github.io/LachiesLibrary/tags/</link>
     <description>Recent content in Tags on Lachies Library</description>
     <image>
       <title>Lachies Library</title>
-      <url>http://localhost:1313/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
     <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/LachiesLibrary/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Craft</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/craft/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/craft/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/craft/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/craft/</guid>
       <description></description>
     </item>
     <item>
       <title>DnD</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/dnd/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/dnd/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</guid>
       <description></description>
     </item>
     <item>
       <title>Cooking</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/cooking/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/cooking/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</guid>
       <description></description>
     </item>
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/recipes/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/recipes/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/recipes/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/recipes/</guid>
       <description></description>
     </item>
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/art/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/art/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/art/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/tech/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/tech/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/tech/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/posts/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/posts/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/posts/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/LachiesLibrary/tags/test/</link>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/test/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LachiesLibrary/tags/test/</guid>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/test/</guid>
       <description></description>
     </item>
   </channel>
