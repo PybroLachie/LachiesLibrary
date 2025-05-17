@@ -34,7 +34,7 @@ Spell concentration is not broken by taking damage / getting hit **unless** the 
 
 ## Resource tracking
 ### Ammo
-non magical or otherwise modified ammo is not tracked, if you have a bow and quiver with 20 arrows, it is assumed that you manage to retrieve them from the battlefield during / after combat. If combat reaches a point where you may have actually used all 20 arrows (rare) then I may tell you that your quiver has run dry - however you do not need to track this, I will. the same goes for crossbow bolts, slingshot ammo, etc. 
+non magical or otherwise non-modified ammo is not tracked, if you have a bow and quiver with 20 arrows, it is assumed that you manage to retrieve them from the battlefield during / after combat. If combat reaches a point where you may have actually used all 20 arrows (rare) then I may tell you that your quiver has run dry - however you do not need to track this, I will. the same goes for crossbow bolts, slingshot ammo, etc. 
 
 magical or otherwise modified ammo **is** tracked, and is often consumed on use, for example a magical arrow that does an additional 1d6 frost damage, would either be destroyed, or converted back into a regular arrow after firing it. modified items such as poisoned darts can be collected but in their regular state, for example if you fired a poisoned dart at a creature, you could reclaim it after combat, but it would now be a regular dart.
 ## Misc
