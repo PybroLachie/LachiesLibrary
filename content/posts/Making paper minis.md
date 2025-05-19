@@ -15,7 +15,7 @@ author: Lachie
 I’ve been playing TTRPGs (specifically D&D 5e) for quite a while now, both as a player and as a DM, and combat naturally is a large part of those games, up until recently all combat I have ever played has been “theatre of the mind” and while there is nothing wrong with that (in fact in certain cases it is likely superior) I had always wanted to do tactical combat on a battle map, however as I spent many of my early D&D playing years as a teenager with no disposable income – the cost for minis and maps was just too much to justify when I would often only play a few sessions a year. What is to follow is the journey of learning to make cheap paper minis (about $0.12 AUD per mini), some workflows and materials I have tried and would recommend, and some places to find resources, all things I wish I had known about back then.
 ## How it started
 
-The idea to print out my own minis first came from seeing it on a YouTube video by “power word spill” on YouTube [1] and I started out creating minis exactly as he recommended, sourcing art from the website printable heroes [2], printing and cutting, and using binder clips as a cheap and effective base. I found a bulk packet of binder clips on amazon [3] and also found some relatively cheap card stock [4] as I wanted to make sure the minis did not feel flimsy – regular printer paper was not quite going to cut it.
+The idea to print out my own minis first came from seeing it on a YouTube video by [“power word spill” on YouTube](https://www.youtube.com/watch?v=blBHZuBgcuc) and I started out creating minis exactly as he recommended, sourcing art from the website [printable heroes](https://printableheroes.com/), printing and cutting, and using binder clips as a cheap and effective base. I found a [bulk packet of binder clips on amazon](https://www.amazon.com.au/dp/B074XTRX7G?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) and also found some relatively [cheap card stock](https://www.amazon.com.au/dp/B0DD3FSQL1?ref=ppx_yo2ov_dt_b_fed_asin_title) as I wanted to make sure the minis did not feel flimsy – regular printer paper was not quite going to cut it.
 ## My first test
 
 ![Image Description](/LachiesLibrary/images/Making%20paper%20minis-20250311113854024.png)
@@ -32,11 +32,11 @@ Be it hand drawn, rendered, or something found on the internet, I needed to find
 With the background isolated, it became a simple matter of using photoshop to generate an outline, adding a black semicircle as a guide for the base, then duplicating and flipping everything. I now had a printable mini.
 
 ![Image Description](/LachiesLibrary/images/Making%20paper%20minis-20250311114936231.png)
-^ My character “Jacklyn” created in hero forge [5], screenshotted, background isolated in photoshop, and the final ready for print and cut version.
+^ My character “Jacklyn” created in [hero forge](https://www.heroforge.com/), screenshotted, background isolated in photoshop, and the final ready for print and cut version.
 
 ## The Dry Erase Minis
 
-This is an idea I was very proud of, I took some generic character art and isolated it's silhouete making it white, I then gave it the same ready to print treatment that I gave all the minis before this, however before folding them I covered them in some clear adhesive laminate [6], this left me with a handful of minis that the DM can use dry erase markers to quickly label on the fly for unexpected encounters.
+This is an idea I was very proud of, I took some generic character art and isolated it's silhouette making it white, I then gave it the same ready to print treatment that I gave all the minis before this, however before folding them I covered them in some [clear adhesive laminate](https://www.amazon.com.au/Avarrix-Australia-Waterproof-Protection-Printable/dp/B09V7QTG5C/ref=asc_df_B09V7QTG5C/?tag=googleshopdsk-22&linkCode=df0&hvadid=712358115002&hvpos=&hvnetw=g&hvrand=10852217627534945635&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071766&hvtargid=pla-1884494913746&mcid=030a29440d03334d97a80a4bd8384a6e&gad_source=1&th=1), this left me with a handful of minis that the DM can use dry erase markers to quickly label on the fly for unexpected encounters.
 
 ![Image Description](/LachiesLibrary/images/Making%20paper%20minis-20250311143735242.png)
 
@@ -52,12 +52,3 @@ my personal advice to anyone wanting to try these out would be to create the fol
 
 
 ![Image Description](/LachiesLibrary/images/Making%20paper%20minis-20250311142902557.png)
-## Resources
-
-1. Power word spill video on creating cheap minis: https://www.youtube.com/watch?v=blBHZuBgcuc
-2. Printable heroes: https://printableheroes.com/
-3. Bulk binder clips: https://www.amazon.com.au/dp/B074XTRX7G?ref=ppx_yo2ov_dt_b_fed_asin_title
-4. Card stock: https://www.amazon.com.au/dp/B0DD3FSQL1?ref=ppx_yo2ov_dt_b_fed_asin_title
-5. https://www.heroforge.com/
-6. clear adhesive laminate: https://www.amazon.com.au/Avarrix-Australia-Waterproof-Protection-Printable/dp/B09V7QTG5C/ref=asc_df_B09V7QTG5C/?tag=googleshopdsk-22&linkCode=df0&hvadid=712358115002&hvpos=&hvnetw=g&hvrand=10852217627534945635&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071766&hvtargid=pla-1884494913746&psc=1&mcid=030a29440d03334d97a80a4bd8384a6e&tag=googleshopdsk-22&linkCode=df0&hvadid=712358115002&hvpos=&hvnetw=g&hvrand=10852217627534945635&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9071766&hvtargid=pla-1884494913746&psc=1&gad_source=1
-
