@@ -10,4 +10,3 @@ author: Lachie
 - No caffeine without water on standby.
 - Don't start drinking until you know where the bathroom is.
 - It is always better to under-promise and over-deliver, than to over-promise and under-deliver.
-- 
