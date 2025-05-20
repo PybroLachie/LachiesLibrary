@@ -1,7 +1,7 @@
 ---
 title: Post Title
 date: 2025-05-20
-draft: true
+draft: false
 tags: 
 author: Lachie
 ---
