@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: Words of Infinite Wisdom
 date: 2025-05-20
 draft: false
 tags: 
