@@ -40,6 +40,15 @@ Notes:
 - **Multiple Dice:** sometimes a weapon, spell, etc. Will call for rolling multiple dice, they will list this by writing the Number followed by the type, for example: 3D6 means roll 3 six sided dice.
 
 You do not **need** to buy any! if you have your own that you want to bring then that is totally encouraged! however I have **plenty** of spare dice for you to borrow if you like :)
+## Skill checks / Saving throws
+At this stage I have mentioned skill checks a couple times, these are sometimes also referred to as saving throws. D&D contains a series of skills used to attempt various tasks (Acrobatics, Deception, Stealth, etc.) every character has a modifier (sometimes positive, sometimes neutral, sometimes negative) for each of these skills listed on their character sheet, these are determined during the character creation process (more on that later). 
 
+To perform a skill check / saving throw, roll a D20, and add your modifier for the **relevant** skill, for example if your DM asks you to make a stealth saving throw, then you roll a D20, and apply your stealth modifier to it;
+![Image Description](/LachiesLibrary/images/D&D%20Essential%20knowledge%20-%20A%20Quick%20start%20guide%20for%20brand%20new%20D&D%20players%20in%20my%20games-20250525211739450.png)
+After you roll your saving throw and add the modifier you tell your DM the final number, they will then tell you if you failed or succeeded in what you were trying to do. It is important to note that in order to make a saving throw to attempt something you must first need to be asked / approved to do so. for example you may say that you want to try and break down a door, your DM will ask you to make a strength check, then you will do it and say the result. You can not however simply roll a strength check without asking and then say "hey I wanna knock down the door also I rolled a 16", the reasoning for this will become clear as you play the game, but it's mostly about keeping discussions / options clear as well as giving your DM the opportunity to tell you that you can not do something / give your fellow players the chance you talk you out of it.
 
+If you wish to accomplish a task in a certain way then you can request the specific skill check, for example if you want to get through a door by picking the lock, you can specifically ask your DM "can I make a slight of hand check to try picking the lock on the door". Requests like this feel more natural as you keep playing the game, but at the start it is totally fine to just say "hey I want to try and get through this door" and let your DM tell you what check to make.
+
+You should also note that not *every* action in the game requires a skill check, for example if you want to just pick up a simple object or walk across a room for example, you just say that you do it, no check required. If you feel unsure as to if you can perform an action, just say that you try to do it and the DM will tell you if a check is required, you will get a feel for it as you play.
+## Combat!
 # Making a character
