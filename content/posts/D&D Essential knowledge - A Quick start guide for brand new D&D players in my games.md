@@ -7,20 +7,21 @@ tags:
 author: Lachie
 description: A Quick start guide for brand new D&D players in my campaign
 ---
-## Intro
+# Intro
 If you are reading this then chances are you are a brand new (or returning) D&D player, welcome to the table! What is to follow is my attempt to condense down all essential first time D&D knowledge into a simple and easy to follow guide. Just remember, the best way to learn D&D is by playing it! So make a character, learn what you can about gameplay, and any gaps in your knowledge will be filled as you play! 
 
-If you wish to gain a high level overview of the game before any further reading, I recommend you watch [this video](https://www.youtube.com/watch?v=hNNBjVmNbQI&t=304s) by Ginny Di on YouTube, it is intended for people using the 2024 rules so a few words are slightly different however pretty much all of the explanation of how the game is played is the same.
-### Technical Info
+If you wish to gain a high level overview of the game before any further reading, I recommend you watch [this video](https://www.youtube.com/watch?v=hNNBjVmNbQI&t) by Ginny Di on YouTube, it is intended for people using the 2024 rules so a few words are slightly different however pretty much all of the explanation of how the game is played is the same.
+## Technical Info
 - My D&D games use the D&D 5e (2014) ruleset, This is not to be confused with the D&D 5.5e (2024) ruleset, It is easy to set D&D beyond to use the 2014 rules only so that you do not need to worry about it, I will go over this when I talk about D&D beyond later.
-### What is D&D / How do I play?
+# What is D&D / How do I play?
+## High level D&D Description
 D&D Is a TTRPG (Table top roleplaying game), Which is to say that you play the game by sitting around a table narrating your actions. In the case of D&D there are 2 types of players;
 1. Player characters 
 2. Dungeon master
 A dungeon master is responsible for narrating the overall story, controlling NPCs (non-player characters), and overall running the game. A Player character (That's you!) is responsible for controlling and narrating the actions of their individual character.
-
+## Actions as a player character
 As a player you can *essentially* break down everything you do into 2 categories:
-#### Out of combat
+### Out of combat
 When out of combat, players are free to perform various actions at will, these actions include but are not limited to: 
 - traveling from location to location (often within a town or settlement)
 - speaking with NPCs (the player speaks as themselves and the DM speaks as the NPC the player is talking to)
@@ -28,9 +29,17 @@ When out of combat, players are free to perform various actions at will, these a
 - exploring locations (either publicly or by sneaking around, this often includes skill checks which we will talk about later)
 - Performing other miscellaneous actions. 
 Some of these actions will require skill checks to perform, while others are just assumed possible, we will talk about skill checks later.
-#### In combat
-During combat the game becomes turn based, The order of turns is determined by an initiative roll, which is a roll of a D20 + plus your initiative modifier (we will speak about modifiers later when we speak about skill checks)
+### In combat
+During combat the game becomes turn based, The order of turns is determined by an initiative roll, which is a roll of a D20 + plus your initiative modifier (we will speak about modifiers later when we speak about skill checks). I will explain combat further in one of the next sections.
+## The Dice!
+If you know nothing else about D&D you will likely at least know 1 thing - there are lots of dice! these dice like in any game are used for generating random numbers, these numbers include the damage of weapons, the amount of heath regained by drinking a potion, etc. every item, spell, and weapon that involves a dice roll specifies which one it needs by identifying the die as a "D" followed by the number of sides, for example a 6 sided die is referred to as a "D6", a 12 sided die is referred to as a "D12" etc.
+![Image Description](/LachiesLibrary/images/D&D%20Essential%20knowledge%20-%20A%20Quick%20start%20guide%20for%20brand%20new%20D&D%20players%20in%20my%20games.png)
+Notes:
+- **0 = maximum value:** You will notice that the D10 has a 0 on it, it is important to note that this 0 actually represents 10.
+- **The D100:** there will be times where you DM, or a class feature ask you to roll a "D100" you will notice that there is no 100 sided die in a *standard* set of dice. this roll is actually done by rolling the D10 along with the percentile die, adding the resulting numbers together. It is important to note that when rolling a D100 the 0 actually represents 0 instead of maximum value, **unless** you roll entirely 0s, in which case you have rolled a perfect 100
+- **Multiple Dice:** sometimes a weapon, spell, etc. Will call for rolling multiple dice, they will list this by writing the Number followed by the type, for example: 3D6 means roll 3 six sided dice.
+
+You do not **need** to buy any! if you have your own that you want to bring then that is totally encouraged! however I have **plenty** of spare dice for you to borrow if you like :)
 
 
-
-## Making a character
+# Making a character
