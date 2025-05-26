@@ -53,7 +53,9 @@ You should also note that not *every* action in the game requires a skill check,
 
 **Saving throws** function the exact same way to skill checks, the only difference is that it is typically called a skill check when proactively trying to do something, while it is typically called a saving throw when reacting to something. For example you may make a dexterity skill check to try and throw something at someone, while that someone may make a dexterity saving throw to try and dodge it. The mechanics are exactly the same, just different words and they often get interchanged.
 
-[[My D&D House Rules]] just to see if that link will work, would be awesome if it did
+Critical hits / success (natural 20) and critical miss / failure (natural 1) have different effects depending on your DM, you can read about how they work in my games in [my D&D house rules](https://pybrolachie.github.io/LachiesLibrary/posts/my-dd-house-rules/#critical-hit-and-failure).
 ## Combat!
+
+
 
 # Making a character
