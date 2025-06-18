@@ -75,8 +75,8 @@ To make an attack, you first need to
    Amount of dice | Type of Dice | Additional modifier. 
    
    Examples:
-   1d4+4 = Roll one 4 sided die, add 4 to the result
-   2d6+3 = Roll two 6 sided dice, add them together, add 3 to the result
+   1d4+4 = Roll one 4 sided die, add 4 to the result.
+   2d6+3 = Roll two 6 sided dice, add them together, add 3 to the result.
    3d10+5 = Roll three ten sided dice, add them together, add 5 to the result
    etc.
    
