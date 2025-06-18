@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: Tales from Alumantia Pt.1 - A fresh start
 date: 2025-06-18
 draft: false
 tags:
