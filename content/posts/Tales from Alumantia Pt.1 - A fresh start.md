@@ -5,6 +5,7 @@ draft: false
 tags:
   - Gaming
   - Gaming/Minecraft
+  - BlogTags/TalesFromAlumantia
 author: Lachie
 ---
 World seed for those interested:

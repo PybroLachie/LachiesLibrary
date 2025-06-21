@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BlogTags/TalesFromAlumantia on Lachies Library</title>
+    <link>https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/talesfromalumantia/</link>
+    <description>Recent content in BlogTags/TalesFromAlumantia on Lachies Library</description>
+    <image>
+      <title>Lachies Library</title>
+      <url>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pybrolachie.github.io/LachiesLibrary/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/talesfromalumantia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Title</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/posts/tales-from-alumantia-pt.2---laying-the-foundation/</link>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/tales-from-alumantia-pt.2---laying-the-foundation/</guid>
+      <description>&lt;h3 id=&#34;picking-up-where-i-left-off&#34;&gt;Picking up where I left off&lt;/h3&gt;
+&lt;p&gt;I started my next session with exactly what I had planned when I left off last time, I ventured my way down the mountain side, and made my way towards the clearing that I showed in my last post. when I arrived I checked out the directly surrounding forest entrance, when I did I was greeted by this absolutely delightful bit of world gen!
+&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://pybrolachie.github.io/LachiesLibrary/images/Tales%20from%20Alumantia%20Pt.2%20-%20Laying%20the%20foundation-20250621222827508.png&#34;&gt;
+I know I know, mods have been doing this for years (trust me I&amp;rsquo;ve installed them many times), but there was something about seeing this little diorama in my vanilla playthrough that just made me happy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tales from Alumantia Pt.1 - A fresh start</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/posts/tales-from-alumantia-pt.1---a-fresh-start/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/tales-from-alumantia-pt.1---a-fresh-start/</guid>
+      <description>&lt;p&gt;World seed for those interested:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Seed: -1412583731547517931
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;the-world-begins&#34;&gt;The world begins&lt;/h3&gt;
+&lt;p&gt;Spawning in and taking a look around, I am immediately greeted by some absolutely stunning visuals, giving me an even deeper appreciation for the work that has been done by Mojang on the world generation system, I may be very nostalgic for the old beta style terrain, but this new system is beautiful.
+&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://pybrolachie.github.io/LachiesLibrary/images/Tales%20from%20Alumantia%20Pt.1%20-%20A%20fresh%20start.png&#34;&gt;The visuals of sprawling lush landscape and intensified by the shader pack I am using, The &amp;ldquo;&lt;a href=&#34;https://www.curseforge.com/minecraft/shaders/complementary-unbound&#34;&gt;Complementary shaders - unbound&lt;/a&gt;&amp;rdquo;, I am a huge fan of this shader pack as I find it delivers not only stellar performance (I see my framerate hovering between 150-160fps) but I also find that it delivers moody but &lt;strong&gt;clear&lt;/strong&gt; visuals at night time and inside dark caves, where as some other shader packs I have used look great with lots of light, but strain my eyes by making things too dark.
+&lt;img alt=&#34;Image Description&#34; loading=&#34;lazy&#34; src=&#34;https://pybrolachie.github.io/LachiesLibrary/images/Tales%20from%20Alumantia%20Pt.1%20-%20A%20fresh%20start-20250618162840196.png&#34;&gt;
+Admittedly the high performance I experience with these shaders is partially accredited to the specs of &lt;a href=&#34;https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/&#34;&gt;my PC&lt;/a&gt;, but I have found that these shaders set to lower settings can still produce very playable framerates on my laptop, which is of lower specs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
