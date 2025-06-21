@@ -5,6 +5,7 @@ draft: false
 tags:
   - Gaming
   - Gaming/Minecraft
+  - BlogTags/TalesFromAlumantia
 author: Lachie
 ---
 This feels like a silly thing to blog, but that has never stopped me before! 
@@ -22,3 +23,5 @@ I continued to play minecraft for a long time, all the way through primary and h
 Today (or rather yesterday night) I have found myself deciding to start a new world, a forever world once again, I had considered starting this world in an earlier version of the game to recapture some of the charm of older terrain meeting new terrain, but have decided that a playthrough on the latest version of the game will feel the most organic as time goes on. in this play through I will only use client side modes like sodium and oculus for performance and visuals, but I am avoiding mini-map mods and things of that nature as I am trying to recapture some of the simplicity of minecraft.
 
 I have decided it might be fun to document my playthrough a little, I don't feel super keen on creating a let's play or anything as it is a lot of additional work for what is just a hobby, but a blog post every now and then just catching up on what I have been doing in the world sounds nice.
+
+You can read the whole Tales from Alumantia series [here](https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/talesfromalumantia/) 

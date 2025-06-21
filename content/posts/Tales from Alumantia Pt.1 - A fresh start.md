@@ -32,3 +32,5 @@ One thing I did discover while exploring my mountain top was a wonderful clearin
 This is about the end of my first session in this world, spare for a little more mining and building a modest farm and setting up a few chests.
 ![Image Description](/LachiesLibrary/images/Tales%20from%20Alumantia%20Pt.1%20-%20A%20fresh%20start-20250618164245628.png)
 And that's it! definitely a smaller session (I was tired) but a nice start for sure, next time I play I will be exploring the clearing I showed above and setting up a proper starter base to with some storage.
+
+You can read the whole Tales from Alumantia series [here](https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/talesfromalumantia/) 

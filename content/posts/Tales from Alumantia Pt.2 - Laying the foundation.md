@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: Tales from Alumantia Pt.2 - Laying the foundation
 date: 2025-06-21
 draft: false
 tags:
@@ -55,4 +55,4 @@ At this stage I was thinking about how time consuming it was going to be to tran
 
 Thankyou for reading, in my next session I plan to get myself a working nether portal and get to work on getting myself a happy ghast! I'll see you then!
 
-You can read the whole Tales from Alumantia series [here]()
+You can read the whole Tales from Alumantia series [here](https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/talesfromalumantia/)
