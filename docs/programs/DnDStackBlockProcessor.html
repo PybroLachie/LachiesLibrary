@@ -9,16 +9,37 @@
     <style>
         body {
             font-family: 'Inter', sans-serif;
-            background-color: #f0f2f5;
+            background-color: #1d1e20; /* Adjusted background color */
             display: flex;
-            justify-content: center;
-            align-items: flex-start;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
             min-height: 100vh;
             padding: 20px;
             box-sizing: border-box;
         }
+        .description-box {
+            background-color: #2e2e33; /* Adjusted box color */
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 800px;
+            text-align: center;
+            color: #d1d5db; /* Adjusted text color for better contrast */
+            font-size: 1rem;
+            line-height: 1.5;
+        }
+        .description-box a { /* Added style for links within description box */
+            color: #60a5fa; /* Blue color for the link */
+            text-decoration: underline;
+        }
+        .description-box a:hover {
+            color: #3b82f6; /* Darker blue on hover */
+        }
         .container {
-            background-color: #ffffff;
+            background-color: #2e2e33; /* Adjusted box color */
             padding: 30px;
             border-radius: 12px;
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -31,17 +52,18 @@
         textarea {
             width: 100%;
             padding: 12px;
-            border: 1px solid #d1d5db;
+            border: 1px solid #4b5563; /* Adjusted border color for dark theme */
             border-radius: 8px;
             font-size: 1rem;
             min-height: 150px;
             resize: vertical;
-            font-family: monospace; /* For code blocks */
-            background-color: #f9fafb;
+            font-family: monospace;
+            background-color: #46464a; /* Adjusted textarea background to #46464a */
+            color: #f9fafb; /* Adjusted textarea text color */
         }
         button {
-            background-color: #4f46e5;
-            color: white;
+            background-color: #e05a0b; /* Default button color (previously hover color) */
+            color: white; /* Explicitly set to white */
             padding: 12px 20px;
             border: none;
             border-radius: 8px;
@@ -49,48 +71,48 @@
             font-weight: 600;
             cursor: pointer;
             transition: background-color 0.3s ease, transform 0.2s ease;
-            box-shadow: 0 4px 10px rgba(79, 70, 229, 0.3);
+            box-shadow: none; /* Removed shadow */
         }
         button:hover {
-            background-color: #4338ca;
+            background-color: #c94f0a; /* Darker hover color */
             transform: translateY(-2px);
         }
         button:active {
             transform: translateY(0);
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+            box-shadow: none; /* Ensure no shadow on active state either */
         }
         h1 {
             font-size: 1.75rem;
             font-weight: 700;
-            color: #1f2937;
+            color: #f9fafb; /* Adjusted heading color for better contrast */
             text-align: center;
         }
         label {
             font-weight: 600;
-            color: #374151;
+            color: #d1d5db; /* Adjusted label color for better contrast */
             margin-bottom: 8px;
             display: block;
         }
         .output-container {
-            background-color: #e2e8f0;
+            background-color: #46464a; /* Adjusted output container background to #46464a */
             padding: 12px;
             border-radius: 8px;
             font-family: monospace;
-            white-space: pre-wrap; /* Preserve whitespace and wrap text */
-            word-wrap: break-word; /* Break long words */
+            white-space: pre-wrap;
+            word-wrap: break-word;
             min-height: 100px;
-            color: #1f2937;
-            border: 1px solid #94a3b8;
+            color: #f9fafb; /* Adjusted output text color */
+            border: 1px solid #6b7280; /* Adjusted border color */
         }
         .error-message {
-            color: #dc2626;
+            color: #ef4444; /* Adjusted error message color for dark theme */
             font-weight: 600;
             text-align: center;
         }
         .copy-feedback {
             margin-top: 8px;
             font-size: 0.9rem;
-            color: #10b981; /* Green color for success */
+            color: #34d399; /* Adjusted green color for success */
             text-align: center;
             font-weight: 600;
             opacity: 0;
@@ -102,6 +124,15 @@
     </style>
 </head>
 <body>
+    <div class="description-box">
+        <p>
+            This program hardcodes HP and AC values into encounter stat blocks generated in the
+            <a href="https://obsidianttrpgtutorials.com/Obsidian+TTRPG+Tutorials/Plugin+Tutorials/Initiative+Tracker" target="_blank" rel="noopener noreferrer">initiative tracker plugin</a>
+            for Obsidian. This is intended for use with the mobile
+            version of Obsidian as non hard coded stats for creatures appear as 0 on the Android
+            build (in my experience).
+        </p>
+    </div>
     <div class="container">
         <h1>Obsidian Encounter Block Processor</h1>
 
@@ -116,12 +147,12 @@ creatures:
 ```"></textarea>
         </div>
 
-        <button id="processButton">Process Encounter</button>
+        <button id="processButton" class="text-white">Process Encounter</button>
 
         <div class="output-section">
             <label for="outputEncounter">Processed Encounter Block:</label>
             <textarea id="outputEncounter" readonly></textarea>
-            <button id="copyButton" class="mt-4">Copy to Clipboard</button>
+            <button id="copyButton" class="mt-4 text-white">Copy to Clipboard</button>
             <div id="copyFeedback" class="copy-feedback"></div>
             <div id="errorMessage" class="error-message mt-2 hidden"></div>
         </div>
@@ -1676,41 +1707,37 @@ creatures:
             const creatureLineRegex = /^\s*-\s*"(?<quantity>\d+)":\s*(?<name>[^,]+)(?:,\s*\d+\s*,\s*\d+)?\s*$/;
 
             for (let i = 0; i < lines.length; i++) {
-                const line = lines[i].trim();
+                const line = lines[i]; // Keep original line to preserve indentation
 
-                if (blockStartRegex.test(line)) {
+                if (blockStartRegex.test(line.trim())) {
                     outputLines.push(line); // Add the ```encounter line
                     inCreaturesSection = true;
                     continue;
                 }
 
-                if (blockEndRegex.test(line) && inCreaturesSection) {
+                if (blockEndRegex.test(line.trim()) && inCreaturesSection) {
                     inCreaturesSection = false;
                     outputLines.push(line); // Add the closing ``` line
                     continue;
                 }
 
                 if (inCreaturesSection) {
-                    // Check for the 'name:' line
-                    if (line.startsWith('name:')) {
-                        outputLines.push(line);
-                        continue;
-                    }
-                    // Check for the 'creatures:' line
-                    if (line.startsWith('creatures:')) {
+                    // Check for 'name:' or 'creatures:' lines and keep them as is
+                    if (line.trim().startsWith('name:') || line.trim().startsWith('creatures:')) {
                         outputLines.push(line);
                         continue;
                     }
 
-                    const match = line.match(creatureLineRegex);
+                    const match = line.trim().match(creatureLineRegex);
                     if (match) {
                         const quantity = match.groups.quantity;
                         const creatureName = match.groups.name.trim(); // Trim to remove any leading/trailing spaces
 
                         if (monsterData[creatureName]) {
                             const { hp, ac } = monsterData[creatureName];
-                            // Reconstruct the line with HP and AC
-                            outputLines.push(`  - "${quantity}": ${creatureName}, ${hp}, ${ac}`);
+                            // Reconstruct the line with correct indentation and HP/AC
+                            const indentation = line.match(/^\s*/)?.[0] || ''; // Capture leading whitespace
+                            outputLines.push(`${indentation}- "${quantity}": ${creatureName}, ${hp}, ${ac}`);
                         } else {
                             errors.push(`Warning: Stats not found for "${creatureName}". Keeping original line.`);
                             outputLines.push(line); // Keep original line if not found
