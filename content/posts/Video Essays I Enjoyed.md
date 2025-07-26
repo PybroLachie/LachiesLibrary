@@ -25,3 +25,7 @@ https://www.youtube.com/watch?v=st6yupvNkVo&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKO
 
 
 https://www.youtube.com/watch?v=hbWJYuIkN_Y&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=7
+
+
+{{< youtube jEX52h1TvuA >}}
+
