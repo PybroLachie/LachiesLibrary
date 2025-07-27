@@ -2,7 +2,7 @@
 title: Video Essays I Enjoyed
 date: 2025-07-26
 draft: false
-tags: 
+tags: []
 author: Lachie
 ---
 As the title says, I wanted to share a few of my favourite video essays, I will attempt to loosely sort them into vague categories (gaming, mystery, movies, etc.) I will also *try* to give a content warning for any that are a bit dark, but no promises as some of these ones I will list at first are ones I watched a while ago. I will update this list as I consume more content. 
@@ -21,12 +21,14 @@ https://www.youtube.com/watch?v=Qe5WT22-AO8&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKO
 https://www.youtube.com/watch?v=ett_8wLJ87U&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=5
 
 https://www.youtube.com/watch?v=st6yupvNkVo&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=6
+##### [How to catch a criminal cloner - BobbyBroccoli](https://www.youtube.com/watch?v=st6yupvNkVo&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=7)
+{{< youtube st6yupvNkVo >}}
 ## "Philosophy"
 ##### [Nostalgia Isn’t What It Used To Be - Clark Elieson](https://www.youtube.com/watch?v=hbWJYuIkN_Y)
 {{< youtube hbWJYuIkN_Y >}}
 Subject matter warning:
 Personal rating: /5
 ##### [The Answer is Not a Hut in the Woods](https://www.youtube.com/watch?v=PK2SMIOHYig&t=1s)
-{{< youtube PK2SMIOHYig&t >}}
+{{< youtube PK2SMIOHYig >}}
 Subject matter warning: Existential 
 Personal rating: /5
