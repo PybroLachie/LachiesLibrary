@@ -30,5 +30,8 @@ Subject matter warning:
 Personal rating: /5
 ##### [The Answer is Not a Hut in the Woods](https://www.youtube.com/watch?v=PK2SMIOHYig&t=1s)
 {{< youtube PK2SMIOHYig >}}
-Subject matter warning: Existential 
-Personal rating: /5
+
+|                         |             |
+| ----------------------- | ----------- |
+| Subject matter warning: | Existential |
+| Personal rating:        | 4/5         |
