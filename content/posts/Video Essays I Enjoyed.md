@@ -16,18 +16,35 @@ https://www.youtube.com/watch?v=5z8XHe2NoAE&list=PLKJB-ebaqnP3Bbkz_tsXTboTN6eRAa
 https://www.youtube.com/watch?v=jEX52h1TvuA
 https://www.youtube.com/watch?v=zZ-guEY2k4Q
 ## Science
-https://www.youtube.com/watch?v=Qe5WT22-AO8&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=4
+##### [The man who tried to fake an element - BobbyBroccoli](https://www.youtube.com/watch?v=Qe5WT22-AO8&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=5)
+{{< youtube Qe5WT22-AO8 >}}
 
-https://www.youtube.com/watch?v=ett_8wLJ87U&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=5
+|                         |     |
+| ----------------------- | --- |
+| Subject matter warning: |     |
+| Personal rating:        |     |
+##### [The man who faked human cloning - BobbyBroccoli](https://www.youtube.com/watch?v=ett_8wLJ87U&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=6)
+{{< youtube ett_8wLJ87U >}}
 
-https://www.youtube.com/watch?v=st6yupvNkVo&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=6
+|                         |     |
+| ----------------------- | --- |
+| Subject matter warning: |     |
+| Personal rating:        |     |
 ##### [How to catch a criminal cloner - BobbyBroccoli](https://www.youtube.com/watch?v=st6yupvNkVo&list=PLKJB-ebaqnP2lNplsztL83fWRRfiKOUa5&index=7)
 {{< youtube st6yupvNkVo >}}
+
+|                         |     |
+| ----------------------- | --- |
+| Subject matter warning: |     |
+| Personal rating:        |     |
 ## "Philosophy"
 ##### [Nostalgia Isn’t What It Used To Be - Clark Elieson](https://www.youtube.com/watch?v=hbWJYuIkN_Y)
 {{< youtube hbWJYuIkN_Y >}}
-Subject matter warning:
-Personal rating: /5
+
+|                         |     |
+| ----------------------- | --- |
+| Subject matter warning: |     |
+| Personal rating:        |     |
 ##### [The Answer is Not a Hut in the Woods](https://www.youtube.com/watch?v=PK2SMIOHYig&t=1s)
 {{< youtube PK2SMIOHYig >}}
 
