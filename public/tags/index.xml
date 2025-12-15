@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BlogTags/Media</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/media/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BlogTags/Music</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/music/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/music/</guid>
+      <description></description>
+    </item>
     <item>
       <title>BlogTags/MagicTheGathering</title>
       <link>https://pybrolachie.github.io/LachiesLibrary/tags/blogtags/magicthegathering/</link>
