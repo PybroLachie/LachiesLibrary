@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pybrolachie.github.io/LachiesLibrary/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My home PC setup</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</guid>
+      <description>&lt;h2 id=&#34;intro-and-disclaimer&#34;&gt;Intro And Disclaimer&lt;/h2&gt;
+&lt;p&gt;Disclaimer: This is my personal setup for game development and 3D art, I obtained parts of it over a long period of time including before attending college, during my studies, and after I started working professionally. I point this out as it is important to me that anyone reading this who is interested in getting into game dev understands that they &lt;strong&gt;Do not&lt;/strong&gt; need to obtain this kind of equipment to get started, I started 3D modelling on an &lt;a href=&#34;https://browser.geekbench.com/v4/cpu/compare/179172?baseline=179172&#34;&gt;old Toshiba laptop&lt;/a&gt; with no graphics card and 4gb of DDR3 RAM, and later built a simple PC with an &lt;a href=&#34;https://pcpartpicker.com/product/QbGj4D/intel-core-i5-7500-34ghz-quad-core-processor-bx80677i57500&#34;&gt;i5-7500&lt;/a&gt; processor and a &lt;a href=&#34;https://www.mwave.com.au/archive/asus-geforce-gtx-1050-phoenix-2gb-video-card-ac08304&#34;&gt;GTX 1050&lt;/a&gt; graphics card which actually did quite well for a long time, so please do not let a lack of equipment prevent you from getting started.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Music Playlists</title>
       <link>https://pybrolachie.github.io/LachiesLibrary/posts/music-playlists/</link>
@@ -189,14 +197,6 @@ Admittedly the high performance I experience with these shaders is partially acc
 &lt;li&gt;bake for 20-25 minutes or until golden brown&lt;/li&gt;
 &lt;li&gt;Allow to rest and firm up outside of the oven for about 5 minutes before transferring to plates for serving&lt;/li&gt;
 &lt;/ol&gt;</description>
-    </item>
-    <item>
-      <title>My home PC setup</title>
-      <link>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://pybrolachie.github.io/LachiesLibrary/posts/my-home-pc-setup/</guid>
-      <description>&lt;h2 id=&#34;intro-and-disclaimer&#34;&gt;Intro And Disclaimer&lt;/h2&gt;
-&lt;p&gt;Disclaimer: This is my personal setup for game development and 3D art, I obtained parts of it over a long period of time including before attending college, during my studies, and after I started working professionally. I point this out as it is important to me that anyone reading this who is interested in getting into game dev understands that they &lt;strong&gt;Do not&lt;/strong&gt; need to obtain this kind of equipment to get started, I started 3D modelling on an &lt;a href=&#34;https://browser.geekbench.com/v4/cpu/compare/179172?baseline=179172&#34;&gt;old Toshiba laptop&lt;/a&gt; with no graphics card and 4gb of DDR3 RAM, and later built a simple PC with an &lt;a href=&#34;https://pcpartpicker.com/product/QbGj4D/intel-core-i5-7500-34ghz-quad-core-processor-bx80677i57500&#34;&gt;i5-7500&lt;/a&gt; processor and a &lt;a href=&#34;https://www.mwave.com.au/archive/asus-geforce-gtx-1050-phoenix-2gb-video-card-ac08304&#34;&gt;GTX 1050&lt;/a&gt; graphics card which actually did quite well for a long time, so please do not let a lack of equipment prevent you from getting started.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pizza Dough Recipie</title>

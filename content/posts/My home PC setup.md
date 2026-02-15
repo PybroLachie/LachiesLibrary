@@ -1,6 +1,6 @@
 ---
 title: My home PC setup
-date: 2025-03-18
+date: 2026-02-15
 draft: false
 tags:
   - Tech
