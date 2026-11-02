@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pybrolachie.github.io/LachiesLibrary/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooking</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recipes</title>
+      <link>https://pybrolachie.github.io/LachiesLibrary/tags/recipes/</link>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/recipes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Art</title>
       <link>https://pybrolachie.github.io/LachiesLibrary/tags/art/</link>
@@ -81,20 +95,6 @@
       <link>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
       <guid>https://pybrolachie.github.io/LachiesLibrary/tags/dnd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cooking</title>
-      <link>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</link>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/cooking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recipes</title>
-      <link>https://pybrolachie.github.io/LachiesLibrary/tags/recipes/</link>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://pybrolachie.github.io/LachiesLibrary/tags/recipes/</guid>
       <description></description>
     </item>
     <item>

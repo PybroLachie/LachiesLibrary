@@ -1,5 +1,6 @@
 ---
 title: Seared Honey Soy Garlic Chicken With pan sauce
+date: 2026-11-02
 tags:
   - Cooking
   - Recipes
